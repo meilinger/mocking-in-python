@@ -1,2 +1,4 @@
 jupyter==1.0.0
 rise==5.2.0
+geocoder==1.38.0
+psycopg2==2.7.4
